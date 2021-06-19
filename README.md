@@ -5,11 +5,11 @@
 🔑 As simple as it gets.
 📥 Install the extension and go to the Discord Login Page. (https://discord.com/login)
 
-```
 Press the extension button and a popup (the example on top) will appear.
+
 Press _Login with Token_ and the form will be changed from the normal Discord Login form in to Token Logen form.
+
 Paste your token, and press _Login_.
-```
 
 ✨ Enjoy.
 
