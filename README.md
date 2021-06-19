@@ -1,2 +1,2 @@
 # Discord Token Login Extension
- Soon
+![Extension Image](https://i.imgur.com/q02OC1x.gif)
