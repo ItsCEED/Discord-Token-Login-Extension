@@ -11,5 +11,5 @@ Paste your token, and press _Login_.
 
 ✨ Enjoy.
 
-> This extension is built and ment to be used for educational purposes only.
-> I don' provide any warent using it, nor im responsible for any damage done.
+> This extension is built and ment to be used for educational purposes only.  
+> I don' provide any warent using it, nor im responsible for any damage done.  
